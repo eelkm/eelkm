@@ -1,16 +1,26 @@
 ### Hi there 👋
+Portfolio - https://portfolio.edgarsapinis.dev/
 
-<!--
-**eelkm/eelkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on - 
+Auto Club [Repo Private]
+Social media site for car enthusiasts
 
-Here are some ideas to get you started:
+Other projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cafe Disco [Repo Private]
+  Full Stack business website for local Cafe
+  |- https://cafedisco.eelkm.com/
+  
+Kalleo [Repo Private]
+  Single page business portfolio website
+  |- https://kalleo.eelkm.com/
+  
+Merch Store [Repo Private]
+  Full Stack e-commerce website
+  |- https://shop.edgarsapinis.dev/
+
+Imagine [Repo Public]
+  Community based image generation website
+  |- https://imagine.edgarsapinis.dev/
+  
+
