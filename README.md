@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edgars Apīnis</h1>
+<h3 align="center">Im Software developer and all around tech enthusiast :)</h3>
 - 🔭 I’m currently working on Social media site for car enthusiasts [AutoClub] (Repo will be public soon)
 
 - 👨‍💻 All of my projects are available at [https://portfolio.edgarsapinis.dev/](https://portfolio.edgarsapinis.dev/)
