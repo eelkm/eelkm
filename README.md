@@ -2,7 +2,7 @@
 <h3 align="center">I'm a software developer and an all-around tech enthusiast :)</h3>
 - 🔭 I’m currently working on Social media site for car enthusiasts. <a href="https://edgarsapinis.notion.site/AutoClub-e8064a82c7f045e0b99462ac775c5901" target="blank">Here is small blog about it.</a>
 
-- 👨‍💻 All of my projects are available at [https://portfolio.edgarsapinis.dev/](https://portfolio.edgarsapinis.dev/)
+- 👨‍💻 All of my projects are available at [https://portfolio.edgarsapinis.dev/](https://portfolio.edgarsapinis.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
