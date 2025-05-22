@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is Edgars and I'm a software developer from Latvia</h2>
+<h2 align="left">
+  Hi 👋! For work inquiries, contact me on
+  <a href="https://www.linkedin.com/in/edgarsapinis/" target="_blank" rel="noopener noreferrer">
+    LinkedIn
+  </a>
+  or email me at
+  <a href="mailto:edgars@apinis.dev">edgars@apinis.dev</a>.
+</h2>
+
 
 ###
 
